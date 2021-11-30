@@ -33,10 +33,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "bot": "node bot/index.js",
-    "web": "node ImageAPI/app.js",
     "start": "node main.js",
-    "shards": "node bot/shards.js"
   },
   "author": "Manav Garg",
   "license": "ISC"
